@@ -38,7 +38,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <my-commons-lang3.version>3.9</my-commons-lang3.version>
+        <my-commons-lang3.version>3.18.0</my-commons-lang3.version>
     </properties>
 
     <dependencies>
